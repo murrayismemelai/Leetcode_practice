@@ -1,19 +1,21 @@
 # Leetcode Practice 2022
-
+```
+Stop update due to a short term project planning at 9/4
+```
 ## Helpful Resource
 [Grind 75](https://www.techinterviewhandbook.org/grind75)
 
 [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
 
 ## Grind 75
-- [ ] week 1 (08/28)
-- [ ] week 2 (09/04)
-- [ ] week 3 (09/11)
-- [ ] week 4 (09/18)
-- [ ] week 5 (09/25)
-- [ ] week 6 (10/02)
-- [ ] week 7 (10/09)
-- [ ] week 8 (10/16)
+- [ ] week 1    x13 
+- [ ] week 2    x12 
+- [ ] week 3    x8  
+- [ ] week 4    x8  
+- [ ] week 5    x8  
+- [ ] week 6    x9  
+- [ ] week 7    x7  
+- [ ] week 8    x10 
 
 ## Daily
 start from 8/18
